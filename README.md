@@ -14,3 +14,6 @@ E-commerce Demo: https://ecom-project1.herokuapp.com/
 
 DemoPortfolioReactjs : https://krishnatyagi01.github.io/DemoReactjsPortfolio/
 (something messed up in deployment, so please click on icon on navbar to start the actual website)
+
+Natours: https://krishnatyagi01.github.io/Natours/
+(A demo project for a travel company. Made with the help of a udemy course: Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmedtmann)
