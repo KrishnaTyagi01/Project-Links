@@ -5,6 +5,8 @@ CLICK THE LINKS GIVEN BELOW TO SEE MY PROJECTS
 
 Netflix Clone :https://netflixkt.netlify.app/
 
+FWC Onboarding: http://fwconboarding-env.eba-s2iktffe.ap-south-1.elasticbeanstalk.com/admin
+
 yelpcamp : https://yelpcamp-kt.herokuapp.com
 
 React demo project: https://krishnatyagi01.github.io/DemoReactWebsite/
