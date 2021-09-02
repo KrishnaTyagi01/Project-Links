@@ -7,6 +7,7 @@ Netflix Clone :https://netflixkt.netlify.app/
 
 FWC Onboarding: http://fwconboarding-env.eba-s2iktffe.ap-south-1.elasticbeanstalk.com/admin
 
+Buildr: https://buildrr.netlify.app/ [please view in pc/laptop, still in development]
 Mezami: https://mezami.in/
 
 yelpcamp : https://yelpcamp-kt.herokuapp.com
